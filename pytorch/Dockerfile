@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel
+FROM cnstark/pytorch:2.0.1-py3.10.11-cuda11.8.0-ubuntu22.04
